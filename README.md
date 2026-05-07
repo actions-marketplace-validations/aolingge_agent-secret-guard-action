@@ -2,6 +2,8 @@
 
 Run `agent-secret-guard` in GitHub Actions to scan AI agent, MCP, and local automation repositories for risky secrets and permissions.
 
+Languages: English | [简体中文](README.zh-CN.md)
+
 [![GitHub Marketplace](https://img.shields.io/badge/GitHub%20Marketplace-Agent%20Secret%20Guard-blue?logo=github)](https://github.com/marketplace/actions/agent-secret-guard)
 [![Main repo](https://img.shields.io/badge/Main%20repo-agent--secret--guard-0f172a?logo=github)](https://github.com/aolingge/agent-secret-guard)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
